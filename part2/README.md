@@ -1,6 +1,6 @@
 # Week 2
 
-In this week, we will cover multi-armed bandits and markov decision processes. 
+In this week, we will cover multi-armed bandits and markov decision processes.
 The topics we would like to cover this week are some topics related to MDP planning, and then dive into topics related to policy
 
 ## Lecture 10: Policy Iteration from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html)
