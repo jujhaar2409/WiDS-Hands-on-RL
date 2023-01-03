@@ -6,9 +6,10 @@ All the material that will be covered in the project will be outlined here. You 
 
 The most important book that you will be needing for reinforcement learning will be [Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf).
 
-The week-wise content is in the respective folders.
+The part-wise content is in the respective folders.
 
-[Week 1](./week1/)
+[Part 1](./part1/)
+[Part 2](./part2/)
 
 ## Note
 
