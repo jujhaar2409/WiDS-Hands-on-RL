@@ -8,8 +8,8 @@ The most important book that you will be needing for reinforcement learning will
 
 The part-wise content is in the respective folders.
 
-[Part 1](./part1/)
-[Part 2](./part2/)
+* [Part 1](./part1/)
+* [Part 2](./part2/)
 
 ## Note
 
