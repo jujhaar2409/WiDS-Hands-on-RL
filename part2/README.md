@@ -1,7 +1,6 @@
-# Week 2
+# Part 2
 
-In this week, we will cover multi-armed bandits and markov decision processes.
-The topics we would like to cover this week are some topics related to MDP planning, and then dive into topics related to policy
+We will wrap up dynamic programming in this part and dig into the core ideas of RL, starting with the prediction and control problems. Then we will investigate a simple control algorithm and finally move towards Monte Carlo prediction and control methods.
 
 ## Lecture 10: Policy Iteration from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html)
 
