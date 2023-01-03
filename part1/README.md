@@ -1,6 +1,6 @@
 # Week 1
 
-In this week, we will cover multi-armed bandits and markov decision processes. 
+In this week, we will cover multi-armed bandits and markov decision processes.
 
 ## Chapter 1 of Sutton and Barto (optional reading)
 
