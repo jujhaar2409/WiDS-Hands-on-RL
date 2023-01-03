@@ -4,7 +4,9 @@ We will wrap up dynamic programming in this part and dig into the core ideas of 
 
 ## Lecture 10: Policy Iteration from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html)
 
-There are two dynamic programming methods widely used to evaluate policies in MDPs. The first is value iteration, which we covered towards the end of last week and the other one if policy iteration. The final method for policy evaluation on MDPs is Linear Programming.
+There are two dynamic programming methods widely used to evaluate policies in MDPs. The first is value iteration, which we covered towards the end of last week and the other one if policy iteration. 
+
+The final method for policy evaluation on MDPs is Linear Programming. If you are interested, you can have a look at this from lecture 9 of CS747. This is an optional topic.
 
 ## Lecture 13: Prediction & Control, Basic Model-based Control from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html)
 
