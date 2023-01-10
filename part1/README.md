@@ -22,6 +22,6 @@ This challenge, and the connections between bandits and RL will become more and 
 
 These sections will introduce you to Markov Decision Processes and their mathematical formulation. These will be a key element of our study of RL ahead.
 
-## Lectures 6 and 8 from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html)
+## Lectures 6 and 8 from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2022/index.html)
 
 The lectures cover definitions for Policies, Value functions, Evaluation, as well as the optimality operator and will introduce you to a technique called value iteration used to find the optimal value function.
