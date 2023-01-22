@@ -16,4 +16,8 @@ This lecture covers these two problems in the initial section and later introduc
 
 **NOTE:** Skip slides 6/16 to 9/16.
 
-More content for `part2` will be uploaded soon.
+## Assignment 2: Dynamic Programming
+
+You can find assignment 2 in [this](./assignment2/) folder. The details can be found in the [readme](./assignment2/README.md) file in the folder linked above.
+
+Completion of this assignment is a compulsory requirement of the project.
