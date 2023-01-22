@@ -19,7 +19,7 @@ states <number of states>
 actions <number of actions>
 tran <initial state> <action taken> <final state> <reward> <transition probability>
 ...all the other transitions...
-tran <s1> <ac> <s2> <r> <p>
+tran <initial state> <action taken> <final state> <reward> <transition probability>
 gamma  <discount rate>
 ```
 
