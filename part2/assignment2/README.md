@@ -14,25 +14,22 @@ Try comparing the two(or three if you do the bonus) methods and see which seems 
 
 You are given two MDPs to test on in the [MDPs](./MDPs) folder. Both are continuing MDPs. They follow the format:
 
-states \<number of states\>
-
-actions \<number of actions\>
-
-tran \<initial state\> \<action taken\> \<final state\> \<reward\> \<transition probability\>
-
-..._all the other transitions_...
-
-tran \<s1\> \<ac\> \<s2\> \<r\> \<p\>
-
-gamma  \<discount rate\>
+```html
+states <number of states>
+actions <number of actions>
+tran <initial state> <action taken> <final state> <reward> <transition probability>
+...all the other transitions...
+tran <s1> <ac> <s2> <r> <p>
+gamma  <discount rate>
+```
 
 The solutions to the MDPs are contained in the same directory. You can use these solutions to verify the output of your MDP planner. The format:
 
-\<optimal value function for first state\> \<optimal action for first state\>
-
-..._one entry for each state_...
-
-\<optimal value function for last state\> \<optimal action for last state\>
+```html
+<optimal value function for first state> <optimal action for first state>
+...one entry for each state...
+<optimal value function for last state> <optimal action for last state>
+```
 
 ## A Rough Outline
 
